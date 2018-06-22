@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AMS-Association:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AMS_Association_jar</output-path>
+    <root id="archive" name="AMS-Association.jar">
+      <element id="module-output" name="AMS-Association" />
+      <element id="extracted-dir" path="G:/Programme/Programmierung/Rest/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/Programme/Programmierung/Rest/asm-6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/Programme/Programmierung/Rest/jersey-bundle-1.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/Programme/Programmierung/Rest/jsr311-api-1.1.2.r612.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
